@@ -1,0 +1,1 @@
+This is another file that has been created under feature2 branch under the folder feature2.
